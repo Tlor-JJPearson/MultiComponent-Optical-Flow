@@ -12,6 +12,7 @@ This program has following modules installed (modules can be installed by pip):
 - OpenCV_Python 4.9.0
 
 Write command in Git Bash terminal inside the program's directory:
+
 "python main.py" <-- has script running ericPrince's Farneback algorithm ("optical_flow.py" has this function). 
 GitHub of this specific solution: https://github.com/ericPrince/optical-flow 
 
