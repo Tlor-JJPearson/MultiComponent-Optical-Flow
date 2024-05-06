@@ -71,7 +71,7 @@ limit = int(input("Enter number of flow frames: "))
 #HARBOUR(176x144)150.yuv
 #HARBOUR(352x288)300.yuv
 #HARBOUR_704x576_30_orig_01.yuv
-with open("YUV\\ICE_704x576_30_orig_02.yuv", "rb") as f:
+with open("YUV_\\BUS(352x288)150.yuv", "rb") as f:
     print("File opened!")
 
     # get first frame Y (intensity)
