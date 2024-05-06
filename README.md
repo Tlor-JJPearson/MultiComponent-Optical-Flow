@@ -1,6 +1,8 @@
 # MultiComponent-Optical-Flow
 A Python script used in a thesis to calculate ans visualize optical flow for multiple chroma channels, using 4:2:0 YUV files.
 
+It tests for seperate Y,U and V channels and also a channel made from averaging vectors from all three.
+
 Language used is:
 Python 3.11.4
 
@@ -12,6 +14,7 @@ This program has following modules installed (modules can be installed by pip):
 Write command in Git Bash terminal inside the program's directory:
 "python main.py" <-- has script running ericPrince's Farneback algorithm
 optical_flow.py has this function 
+GitHub of this specific solution: https://github.com/ericPrince/optical-flow 
 
 "python new.py" <--  has script running Farneback algorithm from OpenCV
 
