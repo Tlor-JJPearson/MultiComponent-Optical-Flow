@@ -11,6 +11,8 @@ This program has following modules installed (modules can be installed by pip):
 - SciPy 1.12.0
 - OpenCV_Python 4.9.0
 
+HOW TO RUN:
+
 Write command in Git Bash terminal inside the program's directory:
 
 "python main.py" <-- has script running ericPrince's Farneback algorithm ("optical_flow.py" has this function). 
