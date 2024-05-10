@@ -15,10 +15,10 @@ HOW TO RUN:
 
 Write command in Git Bash terminal inside the program's directory:
 
-"python main.py" <-- has script running ericPrince's Farneback algorithm ("optical_flow.py" has this function). 
+"python main.py" <-- has script running ericPrince's Gunnar-Farneback algorithm for Optical Flow ("optical_flow.py" has this function). 
 GitHub of this specific solution: https://github.com/ericPrince/optical-flow 
 
-"python new.py" <-- has script running Farneback algorithm from OpenCV.
+"python new.py" <-- has script running Gunnar-Farneback Optical Flow algorithm from OpenCV.
 
 
 YUV_ folder has:
